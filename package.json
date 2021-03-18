@@ -1,0 +1,28 @@
+{
+  "name": "ajs-modules-1",
+  "version": "1.0.0",
+  "description": "ajs-modules-1",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --mode production",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mogushkov/ajs-modules-1.git"
+  },
+  "keywords": [
+    "ajs-modules-1"
+  ],
+  "author": "Mogushkov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mogushkov/ajs-modules-1/issues"
+  },
+  "homepage": "https://github.com/Mogushkov/ajs-modules-1#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.13.10",
+    "@babel/core": "^7.13.10",
+    "@babel/preset-env": "^7.13.10"
+  }
+}
